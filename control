@@ -1,0 +1,11 @@
+Package: com.w00tylab.chrome1
+Name: EasyRefresh for Chrome
+Depends: mobilesubstrate
+Conflicts: gsc.ipad
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Add Mobile Safari style page refresher or stopper.
+ Add a quick Reload/Stop button to Chrome iPhone version.
+Maintainer: moeseth
+Author: moeseth
+Section: Tweaks
